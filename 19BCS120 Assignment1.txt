@@ -1,0 +1,8 @@
+1)All the entity are strong entities because each entity has a primary key.
+
+2)Weak relationships are:-
+	a)from T1_visitor to T1_patient
+	b)from T1_staff to T1_room
+	c)from T1_patient to T1_room
+	d)from T1_visitor to T1_room
+Note:- This all are weak relationship because they do not have same primary key.
